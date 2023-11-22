@@ -11,4 +11,3 @@ def index():
 if __name__ == "__main__":
     APP.debug = True
     APP.run()
-
